@@ -1,0 +1,17 @@
+.clockbox {
+    position: fixed;
+    top: 20px;
+    right: 24px;
+    background: #1d2921;
+    color: #c7f36b;
+    padding: 12px 20px ;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    
+
+
+}
+#clock {
+    margin: 0;
+}
